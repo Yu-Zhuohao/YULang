@@ -1,7 +1,8 @@
-#Basic Information:
+# Basic Information:
+
 Project name:YU Language(YUlang)
 Author:[YuZhuohao]
-License:[Undetermined]
+License:GNU GPL3.0
 Project start time: 2026.02.25
 Project version: 26.08.01  (As of 2026.02.25)
 
